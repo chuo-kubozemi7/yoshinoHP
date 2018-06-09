@@ -466,6 +466,20 @@ h1, h2, h3, h4, h5, h6, figure {
   background: rgba(234, 146, 21, 0.9) !important;
   color: #fff !important;
 }
+#fh5co-header .display-tc .btn.btn-learn2,
+#fh5co-counter .display-tc .btn.btn-learn2,
+.fh5co-cover .display-tc .btn.btn-learn2 {
+  background: rgba(9, 198, 171, 0.8);
+  border: none;
+}
+#fh5co-header .display-tc .btn.btn-learn2:hover, #fh5co-header .display-tc .btn.btn-learn2:focus,
+#fh5co-counter .display-tc .btn.btn-learn2:hover,
+#fh5co-counter .display-tc .btn.btn-learn2:focus,
+.fh5co-cover .display-tc .btn.btn-learn2:hover,
+.fh5co-cover .display-tc .btn.btn-learn2:focus {
+  background: rgba(9, 198, 171, 0.8) !important;
+  color: #fff !important;
+}
 #fh5co-header .display-tc .btn:hover,
 #fh5co-counter .display-tc .btn:hover,
 .fh5co-cover .display-tc .btn:hover {
